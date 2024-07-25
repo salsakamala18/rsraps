@@ -13,3 +13,8 @@ owner = "MartinHeinz"
 repo = "python-project-blueprint"
 ```
 
+[logging]()
+```bash
+logging.basicConfig{level="DEBUG",}
+```
+

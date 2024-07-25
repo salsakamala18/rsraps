@@ -2,3 +2,14 @@
 ```bash
 tag_prefix = "refs/tags/"
 ```
+
+[owner](https://martinheinz.dev/blog/25)
+```bash
+owner = "MartinHeinz"
+```
+
+[repo](https://martinheinz.dev/blog/25)
+```bash
+repo = "python-project-blueprint"
+```
+

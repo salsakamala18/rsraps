@@ -15,6 +15,6 @@ repo = "python-project-blueprint"
 
 [logging]()
 ```bash
-logging.basicConfig{level="DEBUG",}
+logging.basicConfig(level=logging.DEBUG,)
 ```
 

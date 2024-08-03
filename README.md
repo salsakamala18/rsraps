@@ -1,6 +1,7 @@
 ## Contents
 - [Python](#python)
 - [PyGithub](#pygithub)
+- [Project](#project)
 
 ## Python
 
@@ -32,3 +33,9 @@ logging.basicConfig(level=logging.DEBUG,)
 ```bash
 access_github = github.Login(login=f"{user_name}", password=f"{user_password}")
 ```
+
+KO-KO
+[github python API (PyGithub)](https://www.yocto.co.kr/m/102)
+
+## Project
+[Discover swinton/pygithub-playground Open Source project](https://opensource-heroes.com/r/swinton/pygithub-playground)

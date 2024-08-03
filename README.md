@@ -30,5 +30,5 @@ logging.basicConfig(level=logging.DEBUG,)
 ## PyGithub
 [github]()
 ```bash
-github.Login()
+access_github = github.Login(login=f"{user_name}", password=f"{user_password}")
 ```

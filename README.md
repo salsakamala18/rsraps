@@ -1,3 +1,10 @@
+
+| Status | Response  |
+| ------ | --------- |
+| 200    |Some code here:<br><pre lang="json">{&#13;  "id": 10,&#13;  "username": "alanpartridge"&#13;}</pre>|
+| 400    |Some text here|
+
+
 ## Contents
 - [Python](#python)
 - [PyGithub](#pygithub)
